@@ -1,0 +1,16 @@
+PODS:
+  - PopUpAlertManager (0.1.0)
+
+DEPENDENCIES:
+  - PopUpAlertManager (from `../`)
+
+EXTERNAL SOURCES:
+  PopUpAlertManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PopUpAlertManager: d59403b0e5e298c56a95315b4f8c78111aa2195d
+
+PODFILE CHECKSUM: a7ab8a17356ca2467a59951dc3a9b6dfd3961317
+
+COCOAPODS: 1.5.3
